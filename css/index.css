@@ -1,5 +1,5 @@
 body {
-    display: block;
+    /*display: block;*/
     overflow-x: hidden;
     height: 100%;
     transform-style: preserve-3d;
@@ -82,7 +82,6 @@ main {
 }
 
 .saudacao-ultima-linha {
-    text-align: right;
     display: block;
 }
 
